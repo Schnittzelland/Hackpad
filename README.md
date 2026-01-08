@@ -24,3 +24,6 @@ The firmware is made with QMK. The Keys have no function at the moment but i wil
 - 8x M3x16mm screws
 - 1x 0.91 inch OLED displays
 - 1x 3D-Printed Case
+
+# Bonus 
+This is my first time doing something like this. I really enjoyed making all the things espacially wiring the PCB. I really hope that the Firmware works as intentendet, if not i will try to fix it.
